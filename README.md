@@ -1,0 +1,2 @@
+# SpringSecurity_jwt_test
+SpringBoot整合SpringSecurity+JWT实现用户验证和鉴权
